@@ -6,19 +6,19 @@ To write a python program to implement multivariate linear regression and predic
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1
-<br>
+<br>Import pandas and linear_model (from sklearn)
 
 ### Step2
-<br>
+<br>Assign the values x and y as the Weight and volume, CO2
 
 ### Step3
-<br>
+<br>Find the regression using regr=linear_model.LinearRegression()
 
 ### Step4
-<br>
+<br>use fit(x,y)
 
 ### Step5
-<br>
+<br>Print the output
 
 ## Program:
 ```
